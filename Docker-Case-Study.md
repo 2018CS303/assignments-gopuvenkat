@@ -84,7 +84,7 @@ Automate the task of deletion of containers through the shell script  `delete_co
     done < $file
   ```
 
-** Note ** : To execute the shell script, use the following command
+**Note** : To execute the shell script, use the following command
 
 ```bash
   sh <shell_script>
